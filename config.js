@@ -5,16 +5,16 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Jade",
+    valentineName: "Shanikqua",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Be My Valentine? 💝",
+    pageTitle: "Will You Be My Beautiful Valentine? 💝",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💝', '💗', '💓'],  // Heart emojis
+        hearts: ['❤️', '💞', '💘', '💜', '💓'],  // Heart emojis
         bears: ['🧸', '🐻']                       // Cute bear emojis
     },
 
@@ -33,7 +33,7 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2025? 🌹", // The big question!
+            text: "Will you be my Valentine on February 14th, 2025? 🥹🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
+        title: "I'm the luckiest guy in the world! 🎉💝💖💝💓",
+        message: "I love you more than words can explain! ",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dncywqfpb/video/upload/v1738399057/music_qrhjvy.mp3", // Music streaming URL
+        musicUrl: "https://open.spotify.com/track/1ko2lVN0vKGUl9zrU0qSlT?si=yU5CAAOuS_uXFp-UX6ysvQ&nd=1&utm_medium=organic&_branch_referrer=H4sIAAAAAAAAA7WNwYrCMBiEnya92dZUhRWKlF3qQVyR2sVbSdtEQ3%2BT7J%2FEpR58dqOwjyAMDMzHzJydM3aZJNZoJ8UYM2NikGpIVgZ17zuXa8NVROhMeIDGI%2BTnZ4VkBaFl0BPH%2F%2B1OX0LkkHVD8OmgKfx8p9fNuoaPG9bpbwUHkpVWkuxrrOefRbHzVeOPpZnUx8Vor%2FvXEwNow8T73whdqD7QaSQ4cx55rvHElOyiO3LBEaU6NS3qP8sx3%2BpWAic0rZhgKB9OQtg1OgEAAA%3D%3D&product=open&%24full_url=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F1ko2lVN0vKGUl9zrU0qSlT%3Fsi%3DyU5CAAOuS_uXFp-UX6ysvQ&feature=organic&_branch_match_id=1418270266861159301", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
