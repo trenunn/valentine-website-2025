@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://open.spotify.com/track/1ko2lVN0vKGUl9zrU0qSlT?si=yU5CAAOuS_uXFp-UX6ysvQ&nd=1&utm_medium=organic&_branch_referrer=H4sIAAAAAAAAA7WNwYrCMBiEnya92dZUhRWKlF3qQVyR2sVbSdtEQ3%2BT7J%2FEpR58dqOwjyAMDMzHzJydM3aZJNZoJ8UYM2NikGpIVgZ17zuXa8NVROhMeIDGI%2BTnZ4VkBaFl0BPH%2F%2B1OX0LkkHVD8OmgKfx8p9fNuoaPG9bpbwUHkpVWkuxrrOefRbHzVeOPpZnUx8Vor%2FvXEwNow8T73whdqD7QaSQ4cx55rvHElOyiO3LBEaU6NS3qP8sx3%2BpWAic0rZhgKB9OQtg1OgEAAA%3D%3D&product=open&%24full_url=https%3A%2F%2Fopen.spotify.com%2Ftrack%2F1ko2lVN0vKGUl9zrU0qSlT%3Fsi%3DyU5CAAOuS_uXFp-UX6ysvQ&feature=organic&_branch_match_id=1418270266861159301", // Music streaming URL
+        musicUrl: "https://asset.cloudinary.com/dnerpkyvy/db085dfc653997ad0123702b20789a63", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
